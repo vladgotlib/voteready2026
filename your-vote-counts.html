@@ -4,7 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Your Vote Counts — Get Ready for November 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Source+Sans+3:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script>Promise.race([document.fonts.ready,new Promise(r=>setTimeout(r,1000))]).then(()=>document.body.style.opacity='1');</script>
 <style>
   :root {
     --ink: #1a1a1a;
@@ -32,6 +35,8 @@
     color: var(--ink);
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
+    opacity: 0;
+    transition: opacity 0.1s;
   }
 
   /* ── HEADER ── */
