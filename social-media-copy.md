@@ -140,6 +140,18 @@ Use these for sharing on X/Twitter, Facebook, Instagram, Threads, Bluesky, TikTo
 
 ---
 
+## Facebook Personal Post
+
+I don't usually post about politics, but I'm getting nervous about the November midterms. Regardless of who you're voting for, I want to make sure people know about the new voter ID laws that are likely to take effect before this election.
+
+I put together a free guide to help people get the right documentation ahead of time so they don't get turned away at the polls. Birth certificates take 4–8 weeks. Passports take 6–8 weeks. If you're a naturalized citizen who lost your certificate, replacement takes 5–8 months. Most people won't start thinking about this until it's too late.
+
+Even if the government is going to make us jump through hoops, at least the prepared won't be turned away. Please share this with anyone who might need it.
+
+https://voteready2026.pages.dev/
+
+---
+
 ## Hashtag Sets
 
 **General:**
